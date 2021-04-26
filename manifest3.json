@@ -1,0 +1,39 @@
+{
+  "name": "Tips Seputar Lifestyle",
+  "short_name": "TipsSeputarLifestyle",
+  "start_url": "https://lifestyle.tipsdantrik.web.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#009688",
+  "description": "Blog yang mengulas berbagai tips dan informasi ringan seputar lifestyle (gaya hidup).",
+  "lang": "id",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-dkm3nSPq5eY/YIZmwyYl8oI/AAAAAAAAAsM/v6CwdmokWNspcj7j9K5B0a9gOnghaH-qgCLcBGAsYHQ/s48/Favicon%2Blifestyle.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dkm3nSPq5eY/YIZmwyYl8oI/AAAAAAAAAsM/v6CwdmokWNspcj7j9K5B0a9gOnghaH-qgCLcBGAsYHQ/s72/Favicon%2Blifestyle.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dkm3nSPq5eY/YIZmwyYl8oI/AAAAAAAAAsM/v6CwdmokWNspcj7j9K5B0a9gOnghaH-qgCLcBGAsYHQ/s96/Favicon%2Blifestyle.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dkm3nSPq5eY/YIZmwyYl8oI/AAAAAAAAAsM/v6CwdmokWNspcj7j9K5B0a9gOnghaH-qgCLcBGAsYHQ/s144/Favicon%2Blifestyle.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dkm3nSPq5eY/YIZmwyYl8oI/AAAAAAAAAsM/v6CwdmokWNspcj7j9K5B0a9gOnghaH-qgCLcBGAsYHQ/s168/Favicon%2Blifestyle.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dkm3nSPq5eY/YIZmwyYl8oI/AAAAAAAAAsM/v6CwdmokWNspcj7j9K5B0a9gOnghaH-qgCLcBGAsYHQ/s192/Favicon%2Blifestyle.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dkm3nSPq5eY/YIZmwyYl8oI/AAAAAAAAAsM/v6CwdmokWNspcj7j9K5B0a9gOnghaH-qgCLcBGAsYHQ/s1600/Favicon%2Blifestyle.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
