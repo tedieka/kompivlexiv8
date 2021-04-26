@@ -1,0 +1,39 @@
+{
+  "name": "Tips Seputar Religi",
+  "short_name": "TipsSeputarReligi",
+  "start_url": "https://religi.tipsdantrik.web.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#009688",
+  "description": "Blog yang mengulas berbagai tips dan informasi ringan seputar religi (islam).",
+  "lang": "id",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-BrTzjsxxvEY/YIY11uUFwDI/AAAAAAAAAr4/cJcOPfV_tJMIK17Gt4qMyzOvcS7eq6P5wCLcBGAsYHQ/s48/Favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BrTzjsxxvEY/YIY11uUFwDI/AAAAAAAAAr4/cJcOPfV_tJMIK17Gt4qMyzOvcS7eq6P5wCLcBGAsYHQ/s72/Favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BrTzjsxxvEY/YIY11uUFwDI/AAAAAAAAAr4/cJcOPfV_tJMIK17Gt4qMyzOvcS7eq6P5wCLcBGAsYHQ/s96/Favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BrTzjsxxvEY/YIY11uUFwDI/AAAAAAAAAr4/cJcOPfV_tJMIK17Gt4qMyzOvcS7eq6P5wCLcBGAsYHQ/s144/Favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BrTzjsxxvEY/YIY11uUFwDI/AAAAAAAAAr4/cJcOPfV_tJMIK17Gt4qMyzOvcS7eq6P5wCLcBGAsYHQ/s168/Favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BrTzjsxxvEY/YIY11uUFwDI/AAAAAAAAAr4/cJcOPfV_tJMIK17Gt4qMyzOvcS7eq6P5wCLcBGAsYHQ/s192/Favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BrTzjsxxvEY/YIY11uUFwDI/AAAAAAAAAr4/cJcOPfV_tJMIK17Gt4qMyzOvcS7eq6P5wCLcBGAsYHQ/s16000/Favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
